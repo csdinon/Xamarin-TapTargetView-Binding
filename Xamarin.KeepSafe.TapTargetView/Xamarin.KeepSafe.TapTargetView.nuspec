@@ -2,9 +2,10 @@
 <package>
   <metadata>
     <id>Xamarin.KeepSafe.TapTargetView</id>
-    <version>1.11.0</version>
+    <version>1.11.1</version>
     <authors>Chris.Dinon</authors>
     <owners>Chris Dinon</owners>
+    <projectUrl>https://github.com/csdinon/Xamarin-TapTargetView-Binding</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <copyright>Copyright 2018</copyright>
     <description>Binding of KeepSafe's TapTarget library</description>
